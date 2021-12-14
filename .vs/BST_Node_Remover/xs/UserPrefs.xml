@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{7BA1EB69-D5C0-4D74-8CE1-73BA97E4E6F2}|Default">
+  <MonoDevelop.Ide.ItemProperties.BST__Node__Remover FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BST_Node_Remover" expanded="True" selected="True">
+            <Node name="BST_Node_Remover" expanded="True" selected="True">
+              <Node name="ConnectedServicesFolder" selected="True" />
+              <Node name="Dependencies" selected="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
